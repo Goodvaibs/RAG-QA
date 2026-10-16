@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn[standard]
+transformers
+huggingface-hub>=1.5.0,<2.0
+torch
+pydantic
+python-dotenv>=0.21.0
+langchain
+langchain-community
+pymupdf
+tiktoken
+sentence-transformers
+chromadb
